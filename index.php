@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--notes: Developed using WEB 3.0 Technology from original designs supplied under Creative Commons Attribution (CCA) Licence 3.0 by html5up.net/licence -->
-
 	<head>
 		<title>McGraw Twinz</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -12,16 +11,16 @@
 				<script src="js/jquery.poptrox.min.js"></script>
 				<script src="js/skel.min.js"></script>
 				<script src="js/init.js"></script>
-		        <script src="//api.html5media.info/1.1.8/html5media.min.js"></script>
-		        <script src="validator/jquery.validator-0.3.6.min.js"></script>
+        <script src="//api.html5media.info/1.1.8/html5media.min.js"></script>
+        <script src="validator/jquery.validator-0.3.6.min.js"></script>
 
 				<noscript>
 					<link rel="stylesheet" href="css/skel-noscript.css" />
 					<link rel="stylesheet" href="css/style.css" />
-		</noscript>
+				</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		
-                <script>
+
+<script>
 		function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
     var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
@@ -31,8 +30,6 @@
 </script>
 
 <script src="wimpy/wimpy.js" type="text/javascript"></script>
-
-
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
 <script type='text/javascript' src='js/modernizr.custom.13303.js'></script>
 <script type='text/javascript' src='js/jquery.shockwave.js'>
@@ -43,7 +40,7 @@
 * Visit http://www.dynamicdrive.com/ for this script and 100s more.
 ***********************************************/
 
-</script> 
+</script>
 <script type='text/javascript' src='js/jquery.shockwave.effects.js'></script>
 
 
@@ -161,7 +158,7 @@ jQuery(function(){
 
 				<!-- Logo -->
 					<a href="#intro"><img id="logo" src="images/mtz_logo_big.png" alt="McGraw Twinz Logo" style="float:left;width:325px;height:77px;border:2"></a>
-				<h1 id="logo"></h1> 
+				<h1 id="logo"></h1>
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
@@ -180,7 +177,7 @@ jQuery(function(){
 				<div id='unhookshow'></div>
 				<br />
 				<br />
-				<header>					
+				<header>
 				<p > Welcome to our website.</p>
 				<h2>PRAISE HIM YAWL</h2>
 				<br /><br />
@@ -212,13 +209,13 @@ jQuery(function(){
 					<header>
 					<h2>Music</h2>
 					</header>
-					
+
 	    			<hr style="width: 100%; height: 8px;">
 				    <p >Listen to samples of our music.<br/></p>
-										
+
 					<!-- Wimpy Player -->
 					<div style="width:100%;height:100%;" data-wimpyplayer data-skin="/wimpy/wimpy.skins/_defaultskin.tsv" data-coverArt="forced_entry.jpg" data-responsive=1 data-startUpText='{"title":"Click To Play","album":"Forced Entry","artist":"McGraw Twinz"}' data-limitPlayTime=40 data-loop=2 data-numberTracks=1 data-media='[{"title":"Unconditional Love","file":"__1aHR0cDovL3d3dy5tY2dyYXd0d2luei5jb20vd2ltcHkvRm9yY2VkIEVudHJ5LzAxIFVuY29uZGl0aW9uYWwgTG92ZS5tNGE=","image":"http://www.mcgrawtwinz.com/wimpy/forced_entry.jpg","kind":"m4a","album":"Forced Entry","artist":"McGraw Twinz","date":"1442515654"},{"title":"Recognize Momma","file":"__1aHR0cDovL3d3dy5tY2dyYXd0d2luei5jb20vd2ltcHkvRm9yY2VkIEVudHJ5LzAyIFJlY29nbml6ZSBNb21tYS5tNGE=","image":"http://www.mcgrawtwinz.com/wimpy/forced_entry.jpg","kind":"m4a","album":"Forced Entry","artist":"McGraw Twinz","date":"1442515656"},{"title":"Praise Him Yawl","file":"__1aHR0cDovL3d3dy5tY2dyYXd0d2luei5jb20vd2ltcHkvRm9yY2VkIEVudHJ5LzAzIFByYWlzZSBIaW0gWWF3bC5tNGE=","image":"http://www.mcgrawtwinz.com/wimpy/forced_entry.jpg","kind":"m4a","album":"Forced Entry","artist":"McGraw Twinz","date":"1442515670"},{"title":"Da Remix","file":"__1aHR0cDovL3d3dy5tY2dyYXd0d2luei5jb20vd2ltcHkvRm9yY2VkIEVudHJ5LzA0IERhIFJlbWl4IFByYWlzZUhpbVlhd2wubTRh","image":"http://www.mcgrawtwinz.com/wimpy/forced_entry.jpg","kind":"m4a","album":"Forced Entry","artist":"McGraw Twinz","date":"1442515672"}]'></div>
-					
+
 					<br /><br />
 					<div>
 					<ul class="fa-ul">
@@ -226,16 +223,16 @@ jQuery(function(){
 					<li>  FORCED ENTRY </li>
 					<li>  2004 LuvIt Records</li>
 					</ul>
-					</div>		
-					
+					</div>
+
 					<div>
 					<ul class="fa-ul">
 					<li><i class="fa-li fa fa-music"></i><b>Sophomore Album</b></li>
 					<li>  HOOD-RICH </li>
 					<li>  2006 LuvIt Records</li>
 					</ul>
-					</div>	
-					
+					</div>
+
 					<div>
 					<ul class="fa-ul">
 					<li><i class="fa-li fa fa-music"></i><b>Singles</b></li>
@@ -243,27 +240,27 @@ jQuery(function(){
 					<li>  Material Things</li>
 					<li>  Bring It in The World</li>
 					</ul>
-					</div>	
+					</div>
 				</div>
-									
+
 
 			</section>
 
 		<!-- Contact -->
 			<section id="contact" class="main style3 secondary">
 				<div class="content container">
-					<header>	
+					<header>
 					</header>
 					<div class="box container small">
-                    <h2>Contact</h2>	
+                    <h2>Contact</h2>
                     <hr style="width: 100%; height: 8px;">
 					<p>We love to hear from our fans. <a href="mailto:gwen@mcgrawtwinz.com">Send Mail</a>!</p>
-					
-						<!--
-							 Contact Form Disabled 
 
-						
-							
+						<!--
+							 Contact Form Disabled
+
+
+
 					<form method="post" action="mail-html.php">
                     <p>
                     <script>
@@ -319,7 +316,7 @@ echo 'Incorrect captcha. Please try again.';
 
 
 				<!-- Menu -->
-					<ul class="menu">				
+					<ul class="menu">
 						<li>&copy; 2015 McGraw Twinz, LLC.<a href="htp://www.mcgrawtwinz.com" target="_blank"></a> All rights reserved.</li>
 					</ul>
 
