@@ -1,6 +1,6 @@
 <?php
 //testing creating a branch as you requested
-<div class="Container">
+<div class="container">
 echo"Contact Us";
 
 
